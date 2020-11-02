@@ -1,0 +1,158 @@
+@media(max-width: 1200px)
+  .menu
+    &_item
+      padding-right: 19px
+    &-link
+      font-size: 13px
+  .promo
+    &_header
+      font-size: 50px
+  .store
+    left: 930px
+    img
+      width: 250px
+@media (max-width: 991px)
+  .menu
+    &_item
+      padding-right: 8px
+    &-link
+       font-size: 10px
+  .subheader
+    &_logo
+      img
+        width: 100%
+    &_official
+      font-size: 11px
+    &_phone
+      font-size: 18px
+    &_btn
+      width: 100%
+      height: 40px
+      margin-top: 21px
+  .promo
+    &_header
+      font-size: 20px
+  .promo-4
+    img
+      right: 30px
+  .reasons_block
+    flex-direction: column
+  .reasons_desc
+    width: 300px
+    margin-top: 20px
+  .store
+    left: 730px
+@media (max-width: 767px)
+  .menu
+    display: flex
+    position: fixed
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    top: 0
+    left: -100%
+    width: 50%
+    height: 200px
+    padding: 20px 15px
+    background-color: rgba(0,0,0,.6)
+    &_active
+      left: 0
+    &_item
+       padding-right: 0
+       border: none
+    &-link
+       font-size: 15px
+  .hamburger
+    display: block
+    position: absolute
+    right: 10px
+    width: 20px
+    height: 10px
+    top: 0
+    bottom: 0
+    margin: auto
+    span
+      display: block
+      height: 2px
+      width: 100%
+      background: #fff
+      margin-bottom: 2px
+      transition: .5s all
+    &_active
+      span
+        margin-bottom: -2px
+        &:nth-child(1)
+          transform: rotate(-45deg)
+        &:nth-child(2)
+          display: none
+        &:nth-child(3)
+          transform: rotate(45deg)
+  .xs-hidden
+    display: none
+  .xs-visible
+    display: block
+  .subheader
+    &_btn
+      width: 200px
+      height: 40px
+      margin: 0 auto
+      display: block
+    &_phone
+      margin-top: 10px
+      text-align: center
+    &_logo
+      margin-top: 30px
+    &_official
+      display: none
+  .promo
+    &_header
+      font-size: 50px
+    &_subheader
+      font-size: 35px
+    &_desc
+      display: none
+    &_btn
+      margin: 140px auto 122px
+  .cause
+    &_text
+      font-size: 27px
+  .application
+    &_text
+      font-size: 31px
+  .app_info
+    &-text
+      position: relative
+      left: 92px
+  .choice
+    &_text
+      font-size: 37px
+  .promo-4
+    img
+      width: 660px
+      right: 80px
+
+  .footer_line
+    margin: 13px auto -62px
+  .footer_social
+    position: relative
+    top: 171px
+    left: 270px
+    display: flex
+    padding: 10px
+  .store
+    position: absolute
+    top: 225px
+    left: 250px
+@media(max-width: 576px)
+  .promo-4
+    img
+      width: 540px
+      right: 30px
+  .footer_social
+    top: 171px
+    left: 174px
+  .store
+    left: 160px
+
+
+
