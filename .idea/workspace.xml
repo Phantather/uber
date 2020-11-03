@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6d729c6-1d73-4f8d-a53f-10293a9cb6cc" name="Default Changelist" comment="" />
+    <list default="true" id="c6d729c6-1d73-4f8d-a53f-10293a9cb6cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_media.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_media.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1irdfOUH486SQ74nwDHjAPSGfCi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../online_1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -158,6 +168,13 @@
       <workItem from="1604294344146" duration="1680000" />
       <workItem from="1604296127817" duration="1032000" />
       <workItem from="1604311439474" duration="1215000" />
+      <workItem from="1604313249439" duration="690000" />
+      <workItem from="1604408802703" duration="1695000" />
+      <workItem from="1604410533791" duration="556000" />
+      <workItem from="1604412396917" duration="1612000" />
+      <workItem from="1604415524797" duration="1789000" />
+      <workItem from="1604417430199" duration="1788000" />
+      <workItem from="1604419620012" duration="307000" />
     </task>
     <servers />
   </component>
@@ -173,10 +190,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="352" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1603191205768" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603631419746">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604412994132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603631419746" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604412994132" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1604235566946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
